@@ -1,0 +1,1 @@
+# github-release-spring-app-with-maven-release-and-assembly-plugins
